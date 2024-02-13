@@ -1,0 +1,4 @@
+Enter Voter ID: 1
+Enter Name: Meenakshi
+Enter Age: 10
+Error: Invalid age for voter
