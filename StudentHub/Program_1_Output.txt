@@ -1,0 +1,15 @@
+----Output 1------
+Enter student details:
+Roll No: 1
+Name: Ramesh
+Age: 22
+Course: Java
+AgeNotWithinRangeException caught: Age should be between 15 and 21.
+
+----Output 2------
+Enter student details:
+Roll No: 1
+Name: Ramesh@
+Age: 20
+Course: Java
+NameNotValidException caught: Name should not contain numbers or special symbols.
