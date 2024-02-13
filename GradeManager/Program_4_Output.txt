@@ -1,0 +1,59 @@
+----Output----
+
+
+1. Add Student
+2. Remove Student
+3. Display Grade
+4. Exit
+Enter your choice: 1
+Enter student name: Ramesh
+Enter student grade: 90
+Student Ramesh added with grade 90.
+
+1. Add Student
+2. Remove Student
+3. Display Grade
+4. Exit
+Enter your choice: 3
+Enter student name to display grade: Ramesh
+Grade of Ramesh: 90
+
+1. Add Student
+2. Remove Student
+3. Display Grade
+4. Exit
+Enter your choice: 3
+Enter student name to display grade: Meenakshi
+Meenakshi is not found in the grade list.
+
+1. Add Student
+2. Remove Student
+3. Display Grade
+4. Exit
+Enter your choice: 1
+Enter student name: Meenakshi
+Enter student grade: 100
+Student Meenakshi added with grade 100.
+
+1. Add Student
+2. Remove Student
+3. Display Grade
+4. Exit
+Enter your choice: 2
+Enter student name to remove: Ramesh
+Student Ramesh removed.
+
+1. Add Student
+2. Remove Student
+3. Display Grade
+4. Exit
+Enter your choice: 3
+Enter student name to display grade: Ramesh
+Ramesh is not found in the grade list.
+
+1. Add Student
+2. Remove Student
+3. Display Grade
+4. Exit
+Enter your choice: 4
+Exiting...

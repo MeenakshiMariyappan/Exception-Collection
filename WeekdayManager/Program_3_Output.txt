@@ -1,0 +1,7 @@
+----Output 1------
+Enter the day position (0-6): 1
+The day is: Monday
+
+-----Output 2-----
+Enter the day position (0-6): 7
+Error: Invalid day position entered. Please enter a number between 0 and 6.

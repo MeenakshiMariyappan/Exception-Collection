@@ -1,0 +1,56 @@
+-------Output------
+
+
+1. Push
+2. Pop
+3. Exit
+Enter your choice: 1
+Enter element to push: 10
+Element 10 pushed onto the stack.
+
+1. Push
+2. Pop
+3. Exit
+Enter your choice: 1
+Enter element to push: 20
+Element 20 pushed onto the stack.
+
+1. Push
+2. Pop
+3. Exit
+Enter your choice: 1
+Enter element to push: 20
+Element 20 pushed onto the stack.
+
+1. Push
+2. Pop
+3. Exit
+Enter your choice: 2
+Element 20 popped from the stack.
+Popped element: 20
+
+1. Push
+2. Pop
+3. Exit
+Enter your choice: 2
+Element 20 popped from the stack.
+Popped element: 20
+
+1. Push
+2. Pop
+3. Exit
+Enter your choice: 2
+Element 10 popped from the stack.
+Popped element: 10
+
+1. Push
+2. Pop
+3. Exit
+Enter your choice: 2
+Stack is empty. Cannot pop.
+
+1. Push
+2. Pop
+3. Exit
+Enter your choice: 3
+Exiting...
